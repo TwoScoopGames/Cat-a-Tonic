@@ -14,7 +14,9 @@
   },
   {
    "name": "./systems/simulation/control-player",
-   "scenes": []
+   "scenes": [
+    "main"
+   ]
   },
   {
    "name": "splatjs:applyVelocity",

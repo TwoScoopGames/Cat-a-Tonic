@@ -4,7 +4,7 @@
   "inputs": [
    {
     "device": "keyboard",
-    "key": "j"
+    "key": "h"
    }
   ]
  },
@@ -13,7 +13,7 @@
   "inputs": [
    {
     "device": "keyboard",
-    "key": "k"
+    "key": "j"
    }
   ]
  },
@@ -22,7 +22,7 @@
   "inputs": [
    {
     "device": "keyboard",
-    "key": "l"
+    "key": "k"
    }
   ]
  },
@@ -31,7 +31,7 @@
   "inputs": [
    {
     "device": "keyboard",
-    "key": "semicolon"
+    "key": "l"
    }
   ]
  }
