@@ -1,1 +1,11 @@
-{}
+{
+ "counter": "images/counter.png",
+ "drink-1": "images/drink-1.png",
+ "drink-2": "images/drink-2.png",
+ "drink-3": "images/drink-3.png",
+ "drink-4": "images/drink-4.png",
+ "paw-1": "images/paw-1.png",
+ "paw-2": "images/paw-2.png",
+ "paw-3": "images/paw-3.png",
+ "paw-4": "images/paw-4.png"
+}

@@ -14,9 +14,7 @@
   },
   {
    "name": "./systems/simulation/control-player",
-   "scenes": [
-    "main"
-   ]
+   "scenes": []
   },
   {
    "name": "splatjs:applyVelocity",
@@ -51,13 +49,23 @@
    ]
   },
   {
-   "name": "./systems/renderer/render-player",
+   "name": "./systems/renderer/draw-bg",
    "scenes": [
     "main"
    ]
   },
   {
+   "name": "./systems/renderer/render-player",
+   "scenes": []
+  },
+  {
    "name": "splatjs:drawImage",
+   "scenes": [
+    "main"
+   ]
+  },
+  {
+   "name": "./systems/renderer/draw-bounding-boxes",
    "scenes": [
     "main"
    ]

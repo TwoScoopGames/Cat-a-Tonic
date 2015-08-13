@@ -1,2 +1,128 @@
 {
+ "counter": [
+  {
+   "time": 100,
+   "properties": {
+    "image": {
+     "name": "counter",
+     "sourceX": 0,
+     "sourceY": 0,
+     "sourceWidth": 1920,
+     "sourceHeight": 758
+    }
+   }
+  }
+ ],
+ "drink-1": [
+  {
+   "time": 100,
+   "properties": {
+    "image": {
+     "name": "drink-1",
+     "sourceX": 0,
+     "sourceY": 0,
+     "sourceWidth": 148,
+     "sourceHeight": 229
+    }
+   }
+  }
+ ],
+ "drink-2": [
+  {
+   "time": 100,
+   "properties": {
+    "image": {
+     "name": "drink-2",
+     "sourceX": 0,
+     "sourceY": 0,
+     "sourceWidth": 148,
+     "sourceHeight": 229
+    }
+   }
+  }
+ ],
+ "drink-3": [
+  {
+   "time": 100,
+   "properties": {
+    "image": {
+     "name": "drink-3",
+     "sourceX": 0,
+     "sourceY": 0,
+     "sourceWidth": 148,
+     "sourceHeight": 229
+    }
+   }
+  }
+ ],
+ "drink-4": [
+  {
+   "time": 100,
+   "properties": {
+    "image": {
+     "name": "drink-4",
+     "sourceX": 0,
+     "sourceY": 0,
+     "sourceWidth": 148,
+     "sourceHeight": 229
+    }
+   }
+  }
+ ],
+ "paw-1": [
+  {
+   "time": 100,
+   "properties": {
+    "image": {
+     "name": "paw-1",
+     "sourceX": 0,
+     "sourceY": 0,
+     "sourceWidth": 187,
+     "sourceHeight": 798
+    }
+   }
+  }
+ ],
+ "paw-2": [
+  {
+   "time": 100,
+   "properties": {
+    "image": {
+     "name": "paw-2",
+     "sourceX": 0,
+     "sourceY": 0,
+     "sourceWidth": 188,
+     "sourceHeight": 798
+    }
+   }
+  }
+ ],
+ "paw-3": [
+  {
+   "time": 100,
+   "properties": {
+    "image": {
+     "name": "paw-3",
+     "sourceX": 0,
+     "sourceY": 0,
+     "sourceWidth": 188,
+     "sourceHeight": 798
+    }
+   }
+  }
+ ],
+ "paw-4": [
+  {
+   "time": 100,
+   "properties": {
+    "image": {
+     "name": "paw-4",
+     "sourceX": 0,
+     "sourceY": 0,
+     "sourceWidth": 187,
+     "sourceHeight": 798
+    }
+   }
+  }
+ ]
 }

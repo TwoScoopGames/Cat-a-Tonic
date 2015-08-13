@@ -1,53 +1,37 @@
 {
- "up": {
+ "cat-1": {
   "type": "button",
   "inputs": [
    {
     "device": "keyboard",
-    "key": "w"
-   },
-   {
-    "device": "keyboard",
-    "key": "up"
+    "key": "j"
    }
   ]
  },
- "down": {
+ "cat-2": {
   "type": "button",
   "inputs": [
    {
     "device": "keyboard",
-    "key": "s"
-   },
-   {
-    "device": "keyboard",
-    "key": "down"
+    "key": "k"
    }
   ]
  },
- "left": {
+ "cat-3": {
   "type": "button",
   "inputs": [
    {
     "device": "keyboard",
-    "key": "a"
-   },
-   {
-    "device": "keyboard",
-    "key": "left"
+    "key": "l"
    }
   ]
  },
- "right": {
+ "cat-4": {
   "type": "button",
   "inputs": [
    {
     "device": "keyboard",
-    "key": "d"
-   },
-   {
-    "device": "keyboard",
-    "key": "right"
+    "key": "semicolon"
    }
   ]
  }
