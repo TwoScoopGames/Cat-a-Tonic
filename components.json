@@ -1,0 +1,13 @@
+{
+ "paw": {
+  "defaults": {},
+  "properties": [
+   {
+    "property": "input",
+    "label": "Input",
+    "type": "text",
+    "default": "cat-1"
+   }
+  ]
+ }
+}

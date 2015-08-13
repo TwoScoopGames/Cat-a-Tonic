@@ -58,7 +58,7 @@
     "name": "paw-1"
    },
    "paw": {
-    "input": ""
+    "input": "cat-1"
    }
   },
   {
@@ -90,7 +90,7 @@
     "name": "paw-2"
    },
    "paw": {
-    "input": ""
+    "input": "cat-2"
    }
   },
   {
@@ -122,7 +122,7 @@
     "name": "paw-3"
    },
    "paw": {
-    "input": ""
+    "input": "cat-3"
    }
   },
   {
@@ -154,7 +154,7 @@
     "name": "paw-4"
    },
    "paw": {
-    "input": ""
+    "input": "cat-4"
    }
   }
  ]
