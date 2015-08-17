@@ -172,6 +172,36 @@
     "x": 0,
     "y": 0
    }
+  },
+  {
+   "id": 6,
+   "name": "drink-spawner",
+   "position": {
+    "x": 100,
+    "y": 400
+   },
+   "size": {
+    "width": 100,
+    "height": 100
+   },
+   "timers": {
+    "timers0": {
+     "running": true,
+     "time": 0,
+     "max": 1000,
+     "script": "./scripts/new-script-0"
+    },
+    "timers1": {
+     "running": false,
+     "time": 0,
+     "max": 1000,
+     "script": "./scripts/new-script-1"
+    }
+   },
+   "velocity": {
+    "x": 0,
+    "y": 0
+   }
   }
  ]
 }
